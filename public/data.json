@@ -1,0 +1,93 @@
+[
+
+    {
+       "id": 1,
+ 
+       "name":"Python for Data Science",
+ 
+       "author":"Kim Jhon Un",
+ 
+       "price":8500,
+ 
+       "rating":4.9,
+ 
+       "img":"https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/python-library-1.jpg"
+ 
+    },
+ 
+    {
+      "id": 2,
+ 
+       "name":"Machine Learning A-Z",
+ 
+       "author":"Jos Portilla",
+ 
+       "price":6000,
+ 
+       "rating":4.9,
+ 
+       "img":"https://famibux.com/wp-content/uploads/2021/05/machine-learning-famibux.jpeg"
+ 
+    },
+ 
+    {
+      "id": 3,
+ 
+       "name":"Git & Github-Learn The Basics",
+ 
+       "author":"Mike Xoh",
+ 
+       "price":2500,
+ 
+       "rating":4.9,
+ 
+       "img":"https://res.cloudinary.com/practicaldev/image/fetch/s--8CA40E5L--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/721lt9kj92i3ov2cthfc.png"
+ 
+    },
+ 
+    {
+      "id": 4,
+ 
+       "name":"Javascript From Zero to Hero",
+ 
+       "author":"Anthoni Alice",
+ 
+       "price":3500,
+ 
+       "rating":4.9,
+ 
+       "img":"https://res.cloudinary.com/practicaldev/image/fetch/s--_pyWGSyD--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/w9u60357jk4ozdho7urq.jpg"
+ 
+    },
+ 
+    {
+      "id": 5,
+ 
+       "name":"Web Developer Bootcamp",
+ 
+       "author":"Nahid Hasan",
+ 
+       "price":5200,
+ 
+       "rating":4.9,
+ 
+       "img":"https://webapp99.com/wp-content/uploads/2020/04/web-development-guideline-for-2020-t0-2030.jpeg"
+ 
+    },
+ 
+    {
+      "id": 6,
+ 
+       "name":"The Ultimate Excel Course",
+ 
+       "author":"Protik Hasan",
+ 
+       "price":1000,
+ 
+       "rating":4.9,
+ 
+       "img":"https://www.howtogeek.com/wp-content/uploads/2021/05/MS-excel-logo-675.png?height=200p&trim=2,2,2,2"
+ 
+    }
+ 
+ ]
