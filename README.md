@@ -4,21 +4,21 @@ https://e-learning-limon.netlify.app/
 
 ## Used Technology
 
--Javascript
--Material UI
--React
--HTML
--CSS
+-Javascript<br/>
+-Material UI<br/>
+-React<br/>
+-HTML<br/>
+-CSS<br/>
 
 ### Special Things
 
--Used UseState,UseEffect
--Used Material UI
--Used Own Data
--Used React Router
+-Used UseState,UseEffect<br/>
+-Used Material UI<br/>
+-Used Own Data<br/>
+-Used React Router<br/>
 
 ### About
 
--Shows some course with some information
--Created 4 pages named HOME,ABOUT,SERVICES,CONTACT
--gives 404 for wrong path
+-Shows some course with some information<br/>
+-Created 4 pages named HOME,ABOUT,SERVICES,CONTACT<br/>
+-gives 404 for wrong path<br/>
