@@ -15,7 +15,13 @@ const Contact = () => {
       />
       <br />
       <br />
-      <TextField className="label" required label="Your Message" maxRows={4} />
+      <TextField
+        className="label"
+        required
+        label="Your Message"
+        defaultValue="Your Message"
+        maxRows={4}
+      />
       <br />
       <br />
       <Button variant="contained">Send</Button>
